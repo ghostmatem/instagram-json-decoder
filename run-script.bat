@@ -1,1 +1,1 @@
-.\venv\Scripts\python.exe ./insta.py
+.\pyth\Scripts\python.exe ./insta.py
