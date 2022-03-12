@@ -1,0 +1,1 @@
+.\venv\Scripts\python.exe ./insta.py
