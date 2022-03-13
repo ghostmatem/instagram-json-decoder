@@ -13,7 +13,7 @@ class MessagePrinter:
         self._file_delegate = None
 
     def init_printed_file(self):
-        path = Path(' - '.join(self._message_repository.names)+'.txt')
+        path = Path('messages', ' - '.join(self._message_repository.names)+'.txt')
         self._file_delegate = FileDelegate(path, encoding='utf-8')
         self._file_delegate.check_and_create_file()
 

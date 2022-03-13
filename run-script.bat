@@ -1,1 +1,1 @@
-.\pyth\Scripts\python.exe ./insta.py
+.\pyth\python.exe /lib/insta.py
